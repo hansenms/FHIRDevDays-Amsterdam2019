@@ -4,7 +4,7 @@ This is the [Azure API for FHIR](https://azure.microsoft.com/en-us/services/azur
 
 The presentation will be on Wednesday, November 20th, 2019 at 11:55am (Wiechert room).
 
-[Slides]() (with tutorial screenshot).
+[Slides](FHIRDevDaysAmsterdam2019-Tutorial.pdf) (with tutorial screenshot).
 
 ## Prerequisites
 
